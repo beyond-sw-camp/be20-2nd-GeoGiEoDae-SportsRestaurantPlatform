@@ -528,11 +528,10 @@ https://documenter.getpostman.com/view/48691546/2sB3QQH7M6
  </details>
 
 
-
-### MSA 아키텍쳐 구조도 
+## MSA 아키텍쳐 구조도 
 ![Image](https://github.com/user-attachments/assets/aa63c4f6-3c0a-453a-9aa7-78b8b2cb68eb)
 
-### 팀원 회고
+## 팀원 회고
 <details>
  <summary> 박인수 </summary>
 
