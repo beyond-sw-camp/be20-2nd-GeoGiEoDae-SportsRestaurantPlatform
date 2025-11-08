@@ -14,6 +14,7 @@
 | 팀원 | 김성현 |
 | 팀원 | 박규진 |
 | 팀원 | 박인수 |
+| 팀원 | 김민주 |
 
 ---
 
@@ -304,70 +305,76 @@ https://documenter.getpostman.com/view/48691546/2sB3QQH7M6
 
  ###  관람 관련 기능
  <details>
- <summary></summary>
+ <summary>관람 검색(키워드 입력시)</summary>
  
- 
+ ![Image](https://github.com/user-attachments/assets/02ad21ce-b8e4-4822-a403-e5ae856c4283)
  </details>
  <details>
- <summary></summary>
+ <summary>관람 검색 (관람코드 입력시)</summary>
  
- 
+ ![Image](https://github.com/user-attachments/assets/42f515c0-e1eb-413d-a2ae-eb1e040605e8)
  </details>
 
 <details>
- <summary></summary>
+ <summary>관람 결제 생성 </summary>
  
- 
+ ![Image](https://github.com/user-attachments/assets/b7084192-3789-4f93-8ad4-ba0e865e0716)
  </details>
 
 <details>
- <summary></summary>
+ <summary>관람 결제요청 및 승인</summary>
  
- 
+ ![Image](https://github.com/user-attachments/assets/80f40f6c-b355-48e5-8389-3f66e95595d0)
  </details>
 
 <details>
- <summary></summary>
+ <summary>관람결제 취소</summary>
  
- 
+ ![Image](https://github.com/user-attachments/assets/736ee75a-be44-4a89-8326-3ad0a7e06cfd)
  </details>
 
 <details>
- <summary></summary>
+ <summary>관람결제 된 내역조회</summary>
  
- 
+ ![Image](https://github.com/user-attachments/assets/1730579f-ece5-465b-86e6-a6ae30ceacb8)
  </details>
 <details>
- <summary></summary>
+ <summary>관람 목록 조회</summary>
  
- 
+ ![Image](https://github.com/user-attachments/assets/f6be6199-0482-4b66-8a57-ee59c7f50678)
  </details>
 <details>
- <summary></summary>
+ <summary>관람 삭제(점주)</summary>
  
+ ![Image](https://github.com/user-attachments/assets/b97e0fcc-5fc3-4ded-be6c-fb10f07ed703)
+ </details>
+ <details>
+ <summary>관람 수정(점주)</summary>
  
+ ![Image](https://github.com/user-attachments/assets/1aa6cf77-93ac-4986-a213-f5776ffc84f1)
+ </details>
+ <details>
+ <summary>관람 신청</summary>
+ 
+ ![Image](https://github.com/user-attachments/assets/0a596f3c-532e-46d7-96c1-be3d4d8d49ec)
+ </details>
+ <details>
+ <summary>관람 신청내역 수정 </summary>
+ 
+ ![Image](https://github.com/user-attachments/assets/65e86e2f-b121-4a34-b711-1986ddd8d4d2)
+ </details>
+ <details>
+ <summary>관람 삭제 </summary>
+ 
+ ![Image](https://github.com/user-attachments/assets/9d30dbef-ff6e-4751-8e97-eef60fa38724)
+ </details>
+ <details>
+ <summary>관람 검색</summary>
+ 
+ ![Image](https://github.com/user-attachments/assets/fceaac0c-89e7-48dc-a422-4f36672d4949)
  </details>
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-  ###  신고 및 블랙리스트 관련기능
+###  신고 및 블랙리스트 관련기능
   <details>
   <summary>블랙리스트 추가</summary>
 
@@ -406,3 +413,151 @@ https://documenter.getpostman.com/view/48691546/2sB3QQH7M6
   ![Image](https://github.com/user-attachments/assets/31a190b5-56d4-4e7b-a683-24623a98302a)
   </details>
  
+ ###  알림 및 공지사항 
+ <details>
+ <summary>알림 유형 등록</summary>
+ 
+ ![Image](https://github.com/user-attachments/assets/5b5cf3d9-665d-4871-81f4-7218e14c6019)
+ </details>
+<details>
+ <summary>알림 수정</summary>
+
+![Image](https://github.com/user-attachments/assets/8098782b-56a3-4bec-96d3-221320f9059b)
+ </details>
+<details>
+ <summary>알림 유형 삭제</summary>
+
+ ![Image](https://github.com/user-attachments/assets/77bce20f-c0cc-4ba1-8f1a-8ca629c7142d)
+ </details>
+<details>
+ <summary>알림 유형 전체 조회</summary>
+
+![Image](https://github.com/user-attachments/assets/5fa28d6c-3664-4c26-9cb7-cfb59e9e48b0)
+ </details>
+ <details>
+ <summary>알림 유형 추가</summary>
+
+![Image](https://github.com/user-attachments/assets/ecacc859-0b87-4a73-b4c1-1f542eb1e1ee)
+ </details>
+<details>
+ <summary>관람 신청시 알림</summary>
+
+![Image](https://github.com/user-attachments/assets/14169c1e-d593-4f71-863c-43ff5d968090)
+ </details>
+<details>
+ <summary>공지사항 등록</summary>
+
+![Image](https://github.com/user-attachments/assets/9e0094e4-6635-41c6-9712-5fbb12a94033)
+ </details>
+<details>
+ <summary>공지사항 수정</summary>
+
+![Image](https://github.com/user-attachments/assets/065a79ac-4cfd-44cb-b785-3e41f113a873)
+ </details>
+<details>
+ <summary>공지사항 삭제</summary>
+
+![Image](https://github.com/user-attachments/assets/09dea816-a7ec-4c9b-a7f1-cad3edd01b84)
+ </details>
+<details>
+ <summary>공지사항 목록조회</summary>
+
+![Image](https://github.com/user-attachments/assets/b4642ee7-49a0-45b0-9da7-9b4164cad1cc)
+ </details>
+<details>
+ <summary>공지사항 상세조회</summary>
+
+![Image](https://github.com/user-attachments/assets/5d7fd87d-7ee3-48c6-8a86-2402d0f42bb4)
+ </details>
+
+### 스포츠 종목 및 팀 기능
+<details>
+ <summary> 종목 등록 </summary>
+
+![Image](https://github.com/user-attachments/assets/597234c0-e50a-46f5-ad5f-5e316edea60b)
+ </details>
+ <details>
+ <summary> 종목 수정 </summary>
+
+![Image](https://github.com/user-attachments/assets/da1fce82-3151-4399-8afb-5c0b57a4ad30)
+ </details>
+ <details>
+ <summary> 종목 삭제 </summary>
+
+![Image](https://github.com/user-attachments/assets/dd6ccb27-3c03-4143-b4c1-19a570344f60)
+ </details>
+ <details>
+ <summary> 종목 조회 </summary>
+
+![Image](https://github.com/user-attachments/assets/a69a1da2-9464-4d56-bdac-91210049a5fd)
+ </details>
+ <details>
+ <summary> 종목 상세조회 </summary>
+
+![Image](https://github.com/user-attachments/assets/cb63fb26-2faa-4a54-a02f-53ad2d141bbb)
+ </details>
+ <details>
+ <summary> 팀 등록 </summary>
+
+![Image](https://github.com/user-attachments/assets/73b87fba-54b4-4a78-8f0f-b5f4fbb22997)
+ </details>
+ <details>
+ <summary> 팀 수정  </summary>
+
+![Image](https://github.com/user-attachments/assets/5a98c195-605d-4700-b629-86a8aa161381)
+ </details>
+ <details>
+ <summary> 팀 삭제 </summary>
+
+![Image](https://github.com/user-attachments/assets/c306c29a-3747-4a5f-a19f-b6e77b61ec0b)
+ </details>
+ <details>
+ <summary> 팀 조회 </summary>
+
+![Image](https://github.com/user-attachments/assets/efde0a98-10f8-413e-95c3-7e10f330971d)
+ </details>
+ <details>
+ <summary> 팀 상세조회 </summary>
+
+![Image](https://github.com/user-attachments/assets/28a96f6d-f29f-403a-b255-1f22797415e2)
+ </details>
+ <details>
+ <summary> 특정종목의 팀조회  </summary>
+
+![Image](https://github.com/user-attachments/assets/292285e4-538d-4903-b103-311597e87ff0)
+ </details>
+
+
+
+### MSA 아키텍쳐 구조도 
+![Image](https://github.com/user-attachments/assets/aa63c4f6-3c0a-453a-9aa7-78b8b2cb68eb)
+
+### 팀원 회고
+<details>
+ <summary> 박인수 </summary>
+
+
+ </details>
+<details>
+ <summary> 박규진  </summary>
+
+
+ </details>
+<details>
+ <summary> 김성현 </summary>
+
+
+ </details>
+<details>
+ <summary> 성현제 </summary>
+
+
+ </details>
+ <details>
+ <summary> 김민주 </summary>
+
+
+ </details>
+
+
+
