@@ -100,41 +100,50 @@
 | 결제   | 💳 카드/계좌 결제      | 예약금 환불 제도, 점주 구독 결제     
 ---
 
-## 📑  산출물 링크
 
-- **요구사항명세서·WBS (Google Sheets)**  
-  https://docs.google.com/spreadsheets/d/1fdSv-AS8EdeEeRGrgxjWvRoyUO11oDH1wEkOj6HnHXg/edit?gid=1436566125#gid=1436566125
+
+## 📄 요구사항명세서·WBS (Google Sheets)
+
 <details>
-  <summary>이미지</summary>
+  <summary>요구사항명세서</summary>
+    https://docs.google.com/spreadsheets/d/1fdSv-AS8EdeEeRGrgxjWvRoyUO11oDH1wEkOj6HnHXg/edit?gid=1436566125#gid=1436566125
 <img width="1623" height="1025" alt="Image" src="https://github.com/user-attachments/assets/3625dc9a-fdb3-4daf-8bea-8ef111ca2c6c" />
 <img width="1624" height="887" alt="Image" src="https://github.com/user-attachments/assets/99049308-92f7-4af3-a1e2-475bac665c40" />
 <img width="1623" height="1057" alt="Image" src="https://github.com/user-attachments/assets/df012088-0d65-4465-9057-b291770bb277" />
 </details>
 
-- **DDD (miro)**  
-  https://miro.com/app/board/uXjVJ5lwdoc=/
+## 📄 DDD (miro)
+
 <details>
-   <summary>이미지</summary>
+   <summary>DDD</summary>
+     https://miro.com/app/board/uXjVJ5lwdoc=/
 <img width="1730" height="1083" alt="Image" src="https://github.com/user-attachments/assets/f6311ce3-3f07-4175-898f-e4c5e25978f9" />
 </details>
 
-- **ERD (ERDCloud)**  
-  [https://www.erdcloud.com/d/BheLqjBhttiyWkdZj](https://www.erdcloud.com/d/A9A6aT89xQCdqGfiH)
- 
+
+## 📄 ERD (ERDCloud)
+
 <details>
-   <summary>이미지</summary>
+   <summary>ERD</summary>
+     [https://www.erdcloud.com/d/BheLqjBhttiyWkdZj](https://www.erdcloud.com/d/A9A6aT89xQCdqGfiH)
+   
   <img width="1516" height="795" alt="Image" src="https://github.com/user-attachments/assets/10ae4370-2ba3-4a85-b5fa-124cf6313740" />
 </details>
-  
-
-  ## 📄 API 명세서 & 단위 테스트
 
   
-- **POST MAN**
+ ## 📄POST MAN
+ 
+ <details>
+    <summary>POST MAN</summary>
 https://www.postman.com/tjdguswp333-9617076/be20-geogieodae/collection/imgd5tf/geogieoddae?action=share&creator=49562230
+</details>
 
-- **Swagger**
+ ## 📄Swagger
+
+ <details>
+    <summary>swagger</summary>
  [Geogieoddae REST API 명세서 (PDF)](https://drive.google.com/file/d/1B4QOAC8QPX8boM1XvGrU_wPsrS5z-yL5/view?usp=sharing))
+</details>
 
 
  ## 📄**테스트 케이스 상세**
@@ -543,7 +552,7 @@ https://www.postman.com/tjdguswp333-9617076/be20-geogieodae/collection/imgd5tf/g
 <details>
    <summary>이미지</summary>
   
-![Image](https://github.com/user-attachments/assets/aa63c4f6-3c0a-453a-9aa7-78b8b2cb68eb)
+<img width="2430" height="390" alt="Image" src="https://github.com/user-attachments/assets/fe2e54ee-cd3f-44df-b0e8-0dd3de234871" />
 </details>
 
 
